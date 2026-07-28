@@ -11,7 +11,6 @@
 - En réalité on mettra ventoy en arrière plan pour faire tout le sale boulot 
 Voici quand une personne lance RUFUS intelligent l'interface est la même que RUFUS à 99%. Et en plus il peut sélectionner autant d'iso
 qu'il veut vu que c'est ventoy.
-
 Voici comment notre outils gère : il regarde d'abord si la clé est flasher avec ventoy, si oui il verifi que les fichiers ne 
 sont pas corrompu et que tout va bien. Et si oui il copie juste les fichiers iso.
 Si non ou si la clé n'est pas flasher avec ventoy, on la flashe à nouveau et on copie juste les fichiers iso. En plus on mettre un fichier
@@ -27,3 +26,9 @@ on ne puisse pas prendre une photo
 *Un outils qui chiffre une partition mais pas comme Verracrypt : par exemple si tu vois la clé tu ne saura même pas que la partition
 existe pour toi c'est juste de l'espace libre et seule la clé de chiffrement permet de savoir que ce truc contient des données et maintenant
 le mot de passe de l'utilisateur pour dechiffrer les données
+
+*Outils de remplacement d'audio : 
+je veux apprendre l'anglais mais a travers les manga : l'audio en Anglais et sous titre en francais : obstacle la version anglaise
+a ses sous titre en Anglais et pour la version avec sous titre en francais c'est la version japonaise.
+Donc mon outils prendra la vidéo en Japonnais qui a les bon sous titre retirera l'audio et la remplacera avec l'audio de la version 
+anglaise. Ainsi je me retrouve avec le son original en Anglais et les sous titre originaux en francais.
