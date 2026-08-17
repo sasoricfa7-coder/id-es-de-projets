@@ -1,0 +1,8 @@
+*Virus
+*IA
+	*AMV (Appel, Message, vocaux)
+	*Tu ecrit le code Rust comme du python : 
+
+* Coffre avec une durée pour les crypto utilisant aussi la graine pour regénérer en cas de problème materiel et 100% fiables même le créateurs n'a pas accès à tes crypto
+* Un coffre fort de mot de passe qui stocke le tout dans un simple fichier .txt dans un chaos absolue que seul le programme comprends
+*IA de traduction de langue optimisée
