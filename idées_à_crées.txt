@@ -1,4 +1,4 @@
-*Virus
+*Virus à titre educatif
 *IA
 	*AMV (Appel, Message, vocaux)
 	*Tu ecrit le code Rust comme du python : 
@@ -16,3 +16,14 @@ Voici comment notre outils gère : il regarde d'abord si la clé est flasher ave
 sont pas corrompu et que tout va bien. Et si oui il copie juste les fichiers iso.
 Si non ou si la clé n'est pas flasher avec ventoy, on la flashe à nouveau et on copie juste les fichiers iso. En plus on mettre un fichier
 qui nous permet de savoir si la clé est corrompue comme une empreinte.
+
+
+*Une application de présentation de produit : un exemple une fois ma grande soeur a demander à un designer de lui faire une affiche 
+et quand celui ci à fini et lui a envoyer l'image elle l'a bloquer et grace à l'IA a recréer le fichier vectoriser et donc a eu une affiche gratuite.
+Je me suis mis à la place de ce dernier et je trouve que c'est une nécessiter. Non seulement je veux que l'application bloque
+toute capture et vidéo et aussi visible qu'en vie unique mais aussi un moyen pour bloque de sorte qu'a partir d'un deuxième teléphone
+on ne puisse pas prendre une photo
+
+*Un outils qui chiffre une partition mais pas comme Verracrypt : par exemple si tu vois la clé tu ne saura même pas que la partition
+existe pour toi c'est juste de l'espace libre et seule la clé de chiffrement permet de savoir que ce truc contient des données et maintenant
+le mot de passe de l'utilisateur pour dechiffrer les données
