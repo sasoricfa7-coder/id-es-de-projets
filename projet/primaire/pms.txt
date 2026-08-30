@@ -1,0 +1,91 @@
+📄 Fiche de Présentation du Projet PMS
+Parressux mais Sécuriser
+Un système de mots de passe narratifs, ouverts et résistants aux attaques.
+
+🧭 Résumé (30 secondes)
+PMS est un système de génération de mots de passe basé sur une histoire naturelle dans laquelle sont noyés exactement 7 mots français choisis par l'utilisateur.
+
+L’histoire est publique (stockée en ligne, partagée, etc.).
+
+Le code est open source.
+
+La sécurité ne repose pas sur le secret, mais sur la capacité du cerveau humain à reconnaître ses propres mots dans un texte.
+
+Même si un attaquant connaît l’histoire, il ne peut pas en extraire les mots.
+
+🧠 Principe fondamental
+"La sécurité ne doit pas reposer sur l’obscurité, mais sur la robustesse du processus."
+
+Élément	Description
+Entrée	Exactement 7 mots français (choisis librement par l’utilisateur)
+Traitement	Une IA génère une histoire d’environ 300 à 500 mots, intégrant les 7 mots de manière fluide et naturelle
+Sortie	Une histoire unique, associée à un identifiant aléatoire (pas de compte, pas de login)
+Stockage	L’histoire est publique (site web, cloud, etc.)
+Récupération	L’utilisateur lit l’histoire et retrouve instinctivement ses 7 mots grâce à sa mémoire sémantique
+🔐 Sécurité : Pourquoi c’est robuste
+Menace	Résistance de PMS
+Force brute	Impossible : l’attaquant doit choisir exactement 7 mots parmi 300–500, soit ~10¹³ combinaisons
+Analyse statistique	Les mots sont noyés dans un texte naturel, aucune fréquence ne les distingue
+Comparaison d’histoires	Chaque génération produit une histoire différente, même avec les mêmes 7 mots
+Ingénierie inverse de l’IA	L’IA ne stocke pas les mots, elle ne peut pas les révéler
+Dictionnaire	Réduit le champ à 300–500 mots, mais le nombre de combinaisons reste astronomique
+Reconnaissance par IA	Une IA ne peut pas "deviner" l’intention humaine ni les 7 mots choisis
+Attaque sociale (phishing)	L’histoire peut être partagée sans risque, elle ne révèle rien
+🧩 Points forts
+🔓 Transparence totale : code open source, histoires publiques.
+
+🧠 Utilise la cognition humaine : reconnaissance naturelle des motifs.
+
+🔐 Sécurité ouverte : ne repose pas sur un secret stocké.
+
+🌍 Accessible : pas de compte, pas de mot de passe à retenir.
+
+📖 Narratif : l’histoire est vivante, mémorisable, agréable.
+
+♻️ Renouvelable : on peut générer une nouvelle histoire à tout moment.
+
+🎯 7 mots exactement : un nombre fixe, simple et facile à retenir.
+
+⚠️ Limites et points de vigilance
+Limite	Explication
+Dépendance humaine	L’utilisateur doit être capable de reconnaître ses 7 mots dans l’histoire
+Langue	Actuellement limité au français (extensible à d’autres langues)
+Confiance en l’IA	L’IA utilisée doit être fiable et sans journalisation
+Perte des mots	Si l’utilisateur oublie ses 7 mots, il ne peut pas les récupérer (comme un mot de passe classique)
+📊 Comparaison avec d’autres systèmes
+Système	Stockage	Sécurité	Transparence	Utilisabilité
+PMS	Histoire publique	Reconnaissance cognitive	Open source	Élevée (histoire naturelle)
+Bitwarden	Mots chiffrés	Chiffrement	Code fermé (partiellement)	Moyenne (mot de passe maître)
+Papier	Physique	Dépend du lieu	Non	Faible (perte/vol)
+Mémoire pure	Cerveau	Dépend de la mémorisation	Non	Très faible
+🧪 Exemple concret
+7 mots choisis par l’utilisateur :
+text
+souris - crayon - orage - nuage - bougie - miroir - vélo
+Histoire générée (extrait) :
+"Il était une fois, dans un petit village perché sur une colline, un enfant nommé Léo. Sa chambre était pleine de trésors : des livres usés, une vieille lampe à huile, et un tiroir rempli de dessins. Un soir d'été, alors que le vent se levait, il entendit un bruit venant du grenier. En montant, il aperçut un objet brillant dans la poussière. C'était un objet qu'il n'avait jamais remarqué. Il s'approcha et vit que la lumière du coucher de soleil se reflétait sur une surface lisse. Dehors, le ciel s'assombrissait, annonçant un changement de temps. Il descendit rapidement pour aller chercher de quoi écrire. Sur le chemin, il croisa un enfant qui roulait sur deux roues. Il lui sembla que cet instant était à la fois banal et unique. Le lendemain, tout avait disparu, comme effacé par la pluie."
+
+Les 7 mots sont là, mais ils sont noyés, naturels, et seul l’utilisateur peut les reconnaître.
+
+🗣️ Questions à poser aux testeurs / experts
+Sécurité : Voyez-vous une faille théorique que nous avons négligée ?
+
+Utilisabilité : Pensez-vous qu’un utilisateur lambda puisse reconnaître ses 7 mots dans une histoire d’une page ?
+
+IA : Quelle IA recommanderiez-vous pour générer des histoires fluides et sans traces ?
+
+Open source : Quels aspects devraient être ouverts pour garantir la confiance ?
+
+Extension : Voyez-vous d’autres usages pour ce système (ex: authentification, récupération de compte) ?
+
+🧭 Prochaines étapes (si le projet est validé)
+□ Créer un prototype (interface web simple)
+□ Tester avec des utilisateurs réels (faculté, amis, communauté)
+□ Ouvrir le code sur GitHub
+□ Documenter la méthode et les bonnes pratiques
+□ Proposer une extension à d’autres langues
+🧠 En une phrase
+"PMS est un système de mots de passe narratifs où la sécurité repose sur la capacité du cerveau humain à reconnaître des motifs, et où l’absence de stockage des mots rend le système incassable."
+
+Nous sollicitons votre avis sur ce projet. Vos retours, critiques et suggestions sont les bienvenus.
+
