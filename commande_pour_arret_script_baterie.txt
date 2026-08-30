@@ -1,0 +1,6 @@
+sudo chattr -i /usr/local/bin/battery_protect.sh
+sudo chattr -i /etc/systemd/system/battery-protect.service
+sudo systemctl stop battery-protect
+sudo systemctl disable battery-protect
+sudo rm /etc/systemd/system/battery-protect.service
+sudo systemctl daemon-reload
