@@ -33,8 +33,4 @@ a ses sous titre en Anglais et pour la version avec sous titre en francais c'est
 Donc mon outils prendra la vidéo en Japonnais qui a les bon sous titre retirera l'audio et la remplacera avec l'audio de la version 
 anglaise. Ainsi je me retrouve avec le son original en Anglais et les sous titre originaux en francais.
 
-*PMS : mots de passe narratifs.
-Histoire publique, mots noyés.
-Résiste aux IA.
-Open source.
-7 mots minimum.
+*Créer une plateforme open source unifiée qui sandboxe, audite et vérifie automatiquement le code généré par IA (vibe coding) pour produire un score de confiance avant tout déploiement.
