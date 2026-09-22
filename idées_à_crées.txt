@@ -1,7 +1,6 @@
 *Virus à titre educatif
 *IA
-	*AMV (Appel, Message, vocaux)
-	*Tu ecrit le code Rust comme du python : 
+
 
 * Coffre avec une durée pour les crypto utilisant aussi la graine pour regénérer en cas de problème materiel et 100% fiables même le créateurs n'a pas accès à tes crypto
 * Un coffre fort de mot de passe qui stocke le tout dans un simple fichier .txt dans un chaos absolue que seul le programme comprends
@@ -27,10 +26,5 @@ on ne puisse pas prendre une photo
 existe pour toi c'est juste de l'espace libre et seule la clé de chiffrement permet de savoir que ce truc contient des données et maintenant
 le mot de passe de l'utilisateur pour dechiffrer les données
 
-*Outils de remplacement d'audio : 
-je veux apprendre l'anglais mais a travers les manga : l'audio en Anglais et sous titre en francais : obstacle la version anglaise
-a ses sous titre en Anglais et pour la version avec sous titre en francais c'est la version japonaise.
-Donc mon outils prendra la vidéo en Japonnais qui a les bon sous titre retirera l'audio et la remplacera avec l'audio de la version 
-anglaise. Ainsi je me retrouve avec le son original en Anglais et les sous titre originaux en francais.
-
 *Créer une plateforme open source unifiée qui sandboxe, audite et vérifie automatiquement le code généré par IA (vibe coding) pour produire un score de confiance avant tout déploiement.
+* un ecran de verrouillage android avec le style des manga demander par EVA
