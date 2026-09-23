@@ -28,3 +28,4 @@ le mot de passe de l'utilisateur pour dechiffrer les données
 
 *Créer une plateforme open source unifiée qui sandboxe, audite et vérifie automatiquement le code généré par IA (vibe coding) pour produire un score de confiance avant tout déploiement.
 * un ecran de verrouillage android avec le style des manga demander par EVA
+ * Movi box version gratuit 
