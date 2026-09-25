@@ -32,3 +32,4 @@ le mot de passe de l'utilisateur pour dechiffrer les données
 
 * Librairie de compilateur : lexer, parseur, ...
 * Programme qui joue Efottball a ma place
+*Manette virtuelle : une application qui simule une vrai manette en temps réel à 100%.
