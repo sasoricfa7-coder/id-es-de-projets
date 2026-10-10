@@ -1,3 +1,4 @@
+*Communication decentraliser securiser.
 *Virus à titre educatif
 *IA
 
@@ -12,8 +13,7 @@ Voici quand une personne lance RUFUS intelligent l'interface est la même que RU
 qu'il veut vu que c'est ventoy.
 Voici comment notre outils gère : il regarde d'abord si la clé est flasher avec ventoy, si oui il verifi que les fichiers ne 
 sont pas corrompu et que tout va bien. Et si oui il copie juste les fichiers iso.
-Si non ou si la clé n'est pas flasher avec ventoy, on la flashe à nouveau et on copie juste les fichiers iso. En plus on mettre un fichier
-qui nous permet de savoir si la clé est corrompue comme une empreinte.
+Si non ou si la clé n'est pas flasher avec ventoy, on la flashe à nouveau et on copie juste les fichiers iso.
 
 
 *Une application de présentation de produit : un exemple une fois ma grande soeur a demander à un designer de lui faire une affiche 
@@ -27,10 +27,11 @@ existe pour toi c'est juste de l'espace libre et seule la clé de chiffrement pe
 le mot de passe de l'utilisateur pour dechiffrer les données
 
 *Créer une plateforme open source unifiée qui sandboxe, audite et vérifie automatiquement le code généré par IA (vibe coding) pour produire un score de confiance avant tout déploiement.
-* un ecran de verrouillage android avec le style des manga demander par EVA
+* un ecran de verrouillage android avec le style des manga demander par EVArdo
  * Movi box version gratuit 
 
 * Librairie de compilateur : lexer, parseur, ...
 * Programme qui joue Efottball a ma place
 *Manette virtuelle : une application qui simule une vrai manette en temps réel à 100%.
 *Mon application SMS privé
+*Le jeu de guerre minimilitia mais c'est la cour de mon ecole le coin de jeu.
