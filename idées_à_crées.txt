@@ -35,3 +35,5 @@ le mot de passe de l'utilisateur pour dechiffrer les données
 *Manette virtuelle : une application qui simule une vrai manette en temps réel à 100%.
 *Mon application SMS privé
 *Le jeu de guerre minimilitia mais c'est la cour de mon ecole le coin de jeu.
+* une application pour bluetoff pour deconnecter de force une radio qui me derange.
+* Créer un OS pour mon petit téléphone par retroingenieurie
